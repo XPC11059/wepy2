@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+.banner-box {
+  width: 100%;
+}
+.slide-image {
+  width: 100%;
+}
+swiper {
+  height: 200px;
+}
+

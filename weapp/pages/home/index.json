@@ -1,0 +1,9 @@
+{
+    "navigationBarTitleText": "WePY 2.0 Feature Demo",
+    "component": true,
+    "usingComponents": {
+        "panel": "../../components/panel",
+        "counter": "../../components/counter",
+        "slide-view": "../../$vendor/miniprogram-slide-view/miniprogram_dist/index"
+    }
+}
